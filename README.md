@@ -10,9 +10,6 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 🚗 Car Management: Manage cars, brands, models, and pricing details.
 📝 Rental History: Keep track of rentals, customers, and rental durations.
 
-## Getting Started
-
-1. **Clone the Repo**: `git clone https://github.com/prabhatthakuryt/Car-Rental-System.git`
 
 ## Contributions Welcome! 🎉
 
@@ -26,4 +23,4 @@ Contribute to the project's growth. Open issues, submit pull requests, and colla
 
 ---
 
-Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
+
